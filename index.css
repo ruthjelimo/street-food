@@ -1,0 +1,22 @@
+/* ul{
+    display: inline;
+    list-style-type: none; */
+}
+#li{
+    
+    display: flex;
+    justify-content: space-evenly;
+
+}
+#li ul{
+    display: flex;
+    justify-content:space-evenly;
+    list-style-type: none;
+    
+    
+    
+}
+#li ul li{
+    justify-content: space-evenly;
+}
+         
